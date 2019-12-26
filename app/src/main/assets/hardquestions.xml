@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<kolaysorular>
+
+
+    <sorular>
+        <soru>2020 yılı G20 dönem başkanın olacak ülke hangisidir?</soru>
+        <a>Güney Kore</a>
+        <b>Japonya</b>
+        <c>Arjantin</c>
+        <d>Suudi Arabistan</d>
+        <cevap>4</cevap>
+
+    </sorular>
+
+    <sorular>
+        <soru>Osmanlı'da ilk geçici elçilik nerede yapılmıştır?</soru>
+        <a>Paris</a>
+        <b>Viyana</b>
+        <c>Münih</c>
+        <d>Brüksel</d>
+        <cevap>1</cevap>
+
+    </sorular>
+    <sorular>
+        <soru>Magna Carta hangi ülke kralıyla yapılmış antlaşmadır?</soru>
+        <a>Fransa</a>
+        <b>İspanya</b>
+        <c>Portekiz</c>
+        <d>İngiltere</d>
+        <cevap>4</cevap>
+
+    </sorular>
+    <sorular>
+        <soru>Kıbrıs Barış harekatı ne zaman gerçekleşmiştir ?</soru>
+        <a>1974</a>
+        <b>1976</b>
+        <c>1970</c>
+        <d>1972</d>
+        <cevap>1</cevap>
+
+    </sorular>
+    <sorular>
+        <soru>Hangisi tarihte ki Rus devlet yöneticilerinden biridir?</soru>
+        <a>Sezar</a>
+        <b>Kazıklı voyvoda</b>
+        <c>Napolyon</c>
+        <d>Deli Petro</d>
+        <cevap>4</cevap>
+
+    </sorular>
+    <sorular>
+        <soru>Tsunami felaketinde en fazla zarar göre asya ülkesi hangisidir? </soru>
+        <a>Tayland</a>
+        <b>Srilanka</b>
+        <c>Endonezya</c>
+        <d>Hindistan</d>
+        <cevap>3</cevap>
+
+    </sorular>
+    <sorular>
+        <soru>Saatleri Ayarlama Enstitüsü romanının yazarı kimdir?</soru>
+        <a>Behçet Necatigil</a>
+        <b>Yaşar Kemal</b>
+        <c>Sabahattin Ali</c>
+        <d>Ahmet Hamdi Tanpınar</d>
+        <cevap>4</cevap>
+
+    </sorular>
+    <sorular>
+        <cevap>1</cevap>
+        <a>Tahta</a>
+        <b>Şans</b>
+        <c>Pul</c>
+        <d>Zar</d>
+        <soru>İtalyancadan Türkçeye geçen tavla kelimesinin kökeninin anlamı nedir?</soru>
+    </sorular>
+    <sorular>
+        <cevap>2</cevap>
+        <a>Sırtlan</a>
+        <b>Zürafa</b>
+        <c>Su aygırı</c>
+        <d>Papağan</d>
+        <soru>Abd başkanlarının besledikleri resmi hayvanları arasında hangisi yoktur?</soru>
+    </sorular>
+    <sorular>
+        <cevap>3</cevap>
+        <a>Kumaş</a>
+        <b>Kağıt</b>
+        <c>Duvar</c>
+        <d>Cam</d>
+        <soru>Rönesans döneminde popüler olan fresk resim tekniği çoğunlukla hangi zemin üzerine uygulanırdı?
+        </soru>
+    </sorular>
+    <sorular>
+        <cevap>3</cevap>
+        <a>Danimarka</a>
+        <b>Türkiye</b>
+        <c>Filipinler</c>
+        <d>Norveç</d>
+        <soru>Çikolata tepeleri olarak bilinen coğrafi oluşumlar hangi ülededir?</soru>
+    </sorular>
+    <sorular>
+        <cevap>3</cevap>
+        <a>Gazneli Mahmut</a>
+        <b>Alp Tigin</b>
+        <c>El-Muktedi Billah</c>
+        <d>Sultan Melikşah</d>
+        <soru>Kaşgarlı Mahmut Divanü Lugati't Türk adlı eserini hangi devlet adamına sunmuştur?</soru>
+    </sorular>
+    <sorular>
+        <cevap>4</cevap>
+        <a>Jack Ruby</a>
+        <b>Clay Shaw</b>
+        <c>Harvey Sounder</c>
+        <d>Lee Harvey Oswald</d>
+        <soru>ABD başkanlarından John Fitzgerald Kennedy’e suikast düzenleyerek öldüren kimdir?</soru>
+    </sorular>
+    <sorular>
+        <cevap>3</cevap>
+        <a>Ayasofya</a>
+        <b>Keçiören Camisi</b>
+        <c>Taceddin Dergahı</c>
+        <d>Ayaş Dergahı</d>
+        <soru>Mehmet Akif İstiklal Marşını nerede yazmıştır?</soru>
+    </sorular>
+    <sorular>
+        <cevap>2</cevap>
+        <a>Kara Duman</a>
+        <b>Beyaz Tren</b>
+        <c>Demir Türk</c>
+        <d>Anadolu</d>
+        <soru>Atatürk'ün yurt gezilerinde (1935-1938) yılları arasında kullandığı trenin adı nedir?</soru>
+    </sorular>
+    <sorular>
+        <soru>Mehmet Akif Ersoy İstiklal Marşı telif ödülünü hangi kuruma bağışlamıştır?</soru>
+        <a>Darülfunun</a>
+        <b>Darülbedai</b>
+        <c>Darülmesai</c>
+        <d>Darüleytam</d>
+        <cevap>3</cevap>
+    </sorular>
+    <sorular>
+        <soru>Tarihte Codex Cumanicus adıyla bilinen Sözlük hangi Türk devletine aittir?</soru>
+        <a>Kıpçaklar</a>
+        <b>Hazarlar</b>
+        <c>Göktürkler</c>
+        <d>Avarlar</d>
+        <cevap>1</cevap>
+    </sorular>
+    <sorular>
+        <soru>Türkiye'de ilk Cep Telefonu görüşmesi Tansu Çiller ile Süleyman Demirel arasında hangi yıl gerçekleşmiştir?</soru>
+        <a>1990</a>
+        <b>1992</b>
+        <c>1994</c>
+        <d>1996</d>
+        <cevap>3</cevap>
+    </sorular>
+
+
+</kolaysorular>

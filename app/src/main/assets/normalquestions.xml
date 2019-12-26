@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<kolaysorular>
+
+    <sorular>
+        <cevap>1</cevap>
+        <a>Queen</a>
+        <b>AC/DC</b>
+        <c>Metellica</c>
+        <d>John Nash</d>
+        <soru>'We Will Rock You' şarkısı kime aittir?</soru>
+    </sorular>
+    <sorular>
+        <cevap>1</cevap>
+        <a>Su</a>
+        <b>Hidrojen</b>
+        <c>Oksijen</c>
+        <d>Magnezyum</d>
+        <soru>Hangisi periyodik tabloda bulunmaz?</soru>
+    </sorular>
+    <sorular>
+        <cevap>3</cevap>
+        <a>Yunus</a>
+        <b>Yarasa</b>
+        <c>Penguen</c>
+        <d>İnek</d>
+        <soru>Hangi hayvan memeli değildir?</soru>
+    </sorular>
+    <sorular>
+        <cevap>2</cevap>
+        <a>Ohm</a>
+        <b>Newton</b>
+        <c>Joule</c>
+        <d>Pascal</d>
+        <soru>Hangisi kuvvet birimidir?</soru>
+    </sorular>
+    <sorular>
+        <cevap>4</cevap>
+        <a>Yusuf Atılgan</a>
+        <b>Yaşar Kemal</b>
+        <c>Namık Kemal</c>
+        <d>Sabahattin Ali</d>
+        <soru>Kuyucaklı Yusuf eseri kime aittir?</soru>
+    </sorular>
+    <sorular>
+        <cevap>4</cevap>
+        <a>B</a>
+        <b>C</b>
+        <c>E</c>
+        <d>R</d>
+        <soru>Elektrik devresinde direnç hangi harfle gösterilir?
+        </soru>
+    </sorular>
+
+    <sorular>
+        <soru>İsviçre'nin başkenti neresidir?</soru>
+        <a>Basel</a>
+        <b>Zürih</b>
+        <c>Bern</c>
+        <d>Berlin</d>
+        <cevap>3</cevap>
+    </sorular>
+    <sorular>
+        <soru>Aşağıdakilerden hangisi Dünya Sağlık Örgütünün kısaltmasıdır?
+        </soru>
+        <a>Nato</a>
+        <b>Unicef</b>
+        <c>Who</c>
+        <d>Uhww</d>
+        <cevap>3</cevap>
+    </sorular>
+    <sorular>
+        <soru>Hangi ilimizde demir yolu yoktur?
+        </soru>
+        <a>Aydın</a>
+        <b>Muğla</b>
+        <c>Batman</c>
+        <d>Kütahya</d>
+        <cevap>2</cevap>
+    </sorular>
+    <sorular>
+        <soru>Laz böreği hangi çeşit yemektir?</soru>
+        <a>Tatlı</a>
+        <b>Tuzlu</b>
+        <c>Börek</c>
+        <d>Ekşi</d>
+        <cevap>1</cevap>
+    </sorular>
+    <sorular>
+        <soru>Fasın başkenti neresidir?</soru>
+        <a>Kahire</a>
+        <b>Rabat</b>
+        <c>Kazablanka</c>
+        <d>Belgrad</d>
+        <cevap>2</cevap>
+    </sorular>
+    <sorular>
+        <cevap>4</cevap>
+        <a>Real Madrid</a>
+        <b>Sporting Lisbon</b>
+        <c>Juventus</c>
+        <d>Newcastle United</d>
+        <soru>Cristiano Ronaldo daha önce hangi takımda oynamamıştır?</soru>
+    </sorular>
+    <sorular>
+        <cevap>4</cevap>
+        <a>21 Mart</a>
+        <b>21 Haziran</b>
+        <c>23 Eylül</c>
+        <d>21 Aralık</d>
+        <soru>Hangi tarihte güney yarımkürede en uzun gündüz yaşanır?</soru>
+    </sorular>
+    <sorular>
+        <cevap>4</cevap>
+        <a>Kara toprak</a>
+        <b>Uzun ince bir yoldayım</b>
+        <c>Güzelliğin on para etmez</c>
+        <d>Yazımı kışa çevirdin</d>
+        <soru>Hangisi bir Aşık Veysel türküsü değildir?</soru>
+    </sorular>
+    <sorular>
+        <cevap>3</cevap>
+        <a>Sivas</a>
+        <b>Mavi Sürgün</b>
+        <c>Tabutta Rövaşata</c>
+        <d>Manisa Tarzanı</d>
+        <soru>Hangi Türk filmi Oscar aday adayı olmamıştır?</soru>
+    </sorular>
+    <sorular>
+        <cevap>1</cevap>
+        <a>Platon</a>
+        <b>Epikuros</b>
+        <c>Aristotales</c>
+        <d>Sokrates</d>
+        <soru>Hangi filozof, İdealar Kuramının kurucusudur?</soru>
+    </sorular>
+    <sorular>
+        <cevap>1</cevap>
+        <a>1999</a>
+        <b>2000</b>
+        <c>2002</c>
+        <d>2004</d>
+        <soru>Türkiye G20'ye hangi yıl katılmıştır?
+        </soru>
+    </sorular>
+    <sorular>
+        <cevap>2</cevap>
+        <a>Beethoven</a>
+        <b>Vivaldi</b>
+        <c>Ravaldi</c>
+        <d>Mozart</d>
+        <soru>Klasik müziğin en çok bilinen eserlerinden olan 4 konçertodan oluşan Dört Mevsim kimin eseridir?</soru>
+    </sorular>
+    <sorular>
+        <cevap>1</cevap>
+        <a>Eylül</a>
+        <b>Yaprak</b>
+        <c>Kasım</c>
+        <d>Sonbahar</d>
+        <soru>Edebiyatımızdaki ilk psikolojik romanın adı nedir?</soru>
+    </sorular>
+    
+</kolaysorular>

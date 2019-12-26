@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kolaysorular>
+    <sorular>
+        <soru>Türkiye'nin başkenti hangi ilimizdir?</soru>
+        <a>İstanbul</a>
+        <b>Ankara</b>
+        <c>Trabzon</c>
+        <d>Adana</d>
+        <cevap>2</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Renkleri bordo-mavi olan kulübümüz hangisidir?</soru>
+        <a>Galatasaray</a>
+        <b>Beşiktaş</b>
+        <c>Trabzonspor</c>
+        <d>Konyaspor</d>
+        <cevap>3</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Hangi şehir marmara bölgesinde yer almaktadır?</soru>
+        <a>İzmir</a>
+        <b>Ankara</b>
+        <c>Bursa</c>
+        <d>Rize</d>
+        <cevap>3</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Türkiye Milli Takımı teknik direktörü kimdir?</soru>
+        <a>Şenol Güneş</a>
+        <b>Fatih Terim</b>
+        <c>Abdullah Avcı</c>
+        <d>Metin Tekin</d>
+        <cevap>1</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>UEFA Kupasını alan temsilcimiz hangisidir?</soru>
+        <a>Galatasaray</a>
+        <b>Trabzonspor</b>
+        <c>Beşiktaş</c>
+        <d>Kayserispor</d>
+        <cevap>1</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Aşağıdakilerden hangisi fen bilimi alt dalı değildir?</soru>
+        <a>Biyoloji</a>
+        <b>Edebiyat</b>
+        <c>Fizik</c>
+        <d>Kimya</d>
+        <cevap>2</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Efsane Muhammed Ali hangi sporu yapmıştır?</soru>
+        <a>Tenis</a>
+        <b>Karate</b>
+        <c>Basketbol</c>
+        <d>Boks</d>
+        <cevap>4</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Aşagıdakilerden hangisi tatlı değildir?</soru>
+        <a>Laz Böreği</a>
+        <b>Supangle</b>
+        <c>Tavuk göğsü</c>
+        <d>Kol Böreği</d>
+        <cevap>4</cevap>
+    </sorular>
+
+</kolaysorular>

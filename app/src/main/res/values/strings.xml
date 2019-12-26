@@ -1,0 +1,43 @@
+<resources>
+
+
+    <string name="app_name">Bilgi Yarışması</string>
+    <string name="start_game">Oyuna Başla</string>
+    <string name="my_score">BAŞARIM</string>
+    <string name="highest_score">Skorlar</string>
+    <string name="quit">Oyundan Çık</string>
+    <string name="p500">500</string>
+    <string name="p1000">1.000</string>
+    <string name="p2000">2.000</string>
+    <string name="p3000">3.000</string>
+    <string name="p5000">5.000</string>
+    <string name="p7500">7.500</string>
+    <string name="p15000">15.000</string>
+    <string name="p30000">30.000</string>
+    <string name="p60000">60.000</string>
+    <string name="p125000">125.000</string>
+    <string name="p250000">250.000</string>
+    <string name="p1000000">1.000.000</string>
+    <string name="withdraw">Çekil</string>
+    <string name="Audience_answers">Seyirciye Sor</string>
+    <string name="okay">Tamam</string>
+    <string name="anamenu">Ana Menu</string>
+    <string name="game_over">Oyun Bitti\nÖdülünüz:</string>
+    <string name="currency">TL</string>
+    <string name="withdraw_sure">Çekilmek istediğinizden emin misiniz?</string>
+    <string name="no">Hayır</string>
+    <string name="yes">Evet</string>
+    <string name="calling">Pınar Hocayı arıyoruz.</string>
+    <string name="second">Saniye</string>
+    <string name="point">Puan</string>
+    <string name="duetoscore">Skora Göre</string>
+    <string name="clearall">Temizle</string>
+    <string name="duetodate">Tarihe Göre</string>
+    <string name="seeit">See</string>
+    <string name="game_over_final">Tebrikler Oyunu Başarıyla Tamamladınız ve 1.000.000 TL kazandınız.</string>
+    <string name="sound">Ses</string>
+    <string name="interstitial_full_screen">ca-app-pub-7128529153485643/8232447858</string>
+    <string name="thanks">Teşekkürler</string>
+
+
+</resources>
